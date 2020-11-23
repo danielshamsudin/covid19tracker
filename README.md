@@ -1,4 +1,4 @@
 # covid19 tracker
 
-Covid19-Tracker application based on location.
+Covid19-Tracker Android application based on location.
 
